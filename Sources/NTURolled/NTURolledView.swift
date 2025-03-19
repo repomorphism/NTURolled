@@ -16,6 +16,8 @@ public struct NTURolledView: View {
             letterU
         }
     }
+
+    public init() {}
 }
 
 extension NTURolledView {
